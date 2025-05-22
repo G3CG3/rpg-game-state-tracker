@@ -28,7 +28,7 @@ A simple Java console application that uses `EnumMap` to manage RPG game states 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to expand this project by adding new animals or behaviors!
+Feel free to expand this project!
 
 ## 💡 Ideas to Extend
 - Add new game phases like INVENTORY, BATTLE, or VICTORY
